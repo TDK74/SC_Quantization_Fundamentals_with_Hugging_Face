@@ -3,7 +3,7 @@
 ### Acknowledgments
 The Python code is from the short course "Quantization Fundamentals with Hugging Face" on the DeepLearning.AI platform, available for free.  
 For more details, visit:  
-<>
+<https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
