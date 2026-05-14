@@ -1,9 +1,9 @@
 # Short Course: Quantization Fundamentals with Hugging Face
 
 ### Acknowledgments
-The Python code is from the short course "Quantization Fundamentals with Hugging Face" on the DeepLearning.AI platform, available for free.  
+The Python code is from the short course "Quantization Fundamentals with Hugging Face" on the DeepLearning.AI platform. The course content is available for free, while the certificate and graded assessments require a paid subscription.  
 For more details, visit:  
-<https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/>
+<https://learn.deeplearning.ai/courses/quantization-fundamentals/information>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
